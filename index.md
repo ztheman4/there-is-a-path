@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Home: Welcome to my brand new testing site.
 ---
 
