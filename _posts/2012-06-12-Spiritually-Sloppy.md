@@ -1,6 +1,6 @@
 # Spiritually Sloppy
 
-By Marvin Lynn Cantrell on June 12, 2012
+*By Marvin Lynn Cantrell on June 12, 2012*
 
 
 
