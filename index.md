@@ -1,5 +1,6 @@
 ---
-Home: Welcome to my brand new testing site.
+Home: There is a Path
 ---
+This site was made today.
 
 
