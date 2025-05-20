@@ -1,4 +1,5 @@
-#Spiritually Sloppy#
+#Spiritually Sloppy
+
 By Marvin Lynn Cantrell on June 12, 2012
 
 
