@@ -16,4 +16,4 @@ Indiscriminate thinking will let all sorts of worthless seeds germinate in our m
 
 Think of Jesus. Was He ever sloppy?
 
-Lord, forgive me for being sloppy and help me to be the man of character You want me to be.
+*Lord, forgive me for being sloppy and help me to be the man of character You want me to be.*
