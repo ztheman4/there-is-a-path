@@ -1,6 +1,8 @@
+![Spiritually Sloppy](/docs/assets/images/spiritually-sloppy.jpg)
+
+
+
 *By Marvin Lynn Cantrell*
-
-
 
 We know what it means to be physically sloppy or messy, but what about a spiritually sloppy life? Are we sloppy with our words, in our habits, in what we see, and what we think?
 
