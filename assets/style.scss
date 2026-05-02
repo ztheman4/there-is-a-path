@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-image: url("{{ site.baseurl }}/assets/images/annie-spratt-PJtKv5c4rZI-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
