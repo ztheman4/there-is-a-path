@@ -24,6 +24,22 @@ Home: There is a Path
     border-radius: 8px;
     color: #222; /* Darker text for contrast */
   }
+  
+  /* make the main body text larger */
+  p {
+    font-size: 1.25rem; /* 1rem is usually 16px; this makes it 25% larger */
+    line-height: 1.6;   /* Adds space between lines for better readability */
+  }
+
+  /* This targets the main title */
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  /* This targets sub-headings */
+  h2 {
+    font-size: 2rem;
+  }
 </style>
 This site was created in May of 2025 to preserve the old blog made over a decade ago by Marvin Cantrell. Click below to see some of his posts. 
 
