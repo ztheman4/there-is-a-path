@@ -27,7 +27,7 @@ Home: There is a Path
   
   /* make the main body text larger */
   p {
-    font-size: 1.25rem; /* 1rem is usually 16px; this makes it 25% larger */
+    font-size: 1rem; /* 1rem is usually 16px; this makes it 25% larger */
     line-height: 1.6;   /* Adds space between lines for better readability */
   }
 
