@@ -1,3 +1,13 @@
+<style>
+  body {
+    background-image: url("./images/annie-spratt-PJtKv5c4rZI-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+</style>
+
 ---
 Home: There is a Path
 ---
