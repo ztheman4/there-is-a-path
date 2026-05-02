@@ -1,13 +1,3 @@
-<style>
-  body {
-    background-image: url("./assets/background-small.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-  }
-</style>
-
 ---
 Home: There is a Path
 ---
