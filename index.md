@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url("./images/annie-spratt-PJtKv5c4rZI-unsplash.jpg");
+    background-image: url("./assets/background-small.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
