@@ -10,3 +10,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+.site-nav, .site-header, .page-content, .site-footer {
+  background-color: transparent !important;
+}
