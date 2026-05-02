@@ -40,21 +40,29 @@ Home: There is a Path
   h2 {
     font-size: 2rem;
   }
-  /* This targets the top title area */
-.page-header {
-  padding: 5rem 6rem; /* Increases the height/spacing of the header */
-}
+  
+ /* Header Title (There is a Path) */
+  .site-title {
+    font-size: 2.25rem !important; /* Adjust this number to your liking */
+    letter-spacing: -1px;
+  }
 
-.project-name {
-  font-size: 4rem !important; /* Makes the main title much larger */
-}
+  /* Navigation links in the header (About, etc.) */
+  .site-nav .page-link {
+    font-size: 1.2rem;
+  }
 
-/* This targets the bottom footer area */
-.site-footer {
-  font-size: 1.5rem; /* Increases footer text size */
-  color: #333;       /* Makes it a darker, readable grey */
-  padding-top: 2rem;
-}
+  /* Footer Text Size and Spacing */
+  .site-footer {
+    font-size: 1.2rem; /* Larger footer text */
+    padding: 40px 0;   /* More space around the footer content */
+    border-top: 1px solid #e8e8e8;
+  }
+  
+  /* Target specific heading inside footer if needed */
+  .footer-heading {
+    font-size: 1.5rem !important;
+  }
 </style>
 This site was created in May of 2025 to preserve the old blog made over a decade ago by Marvin Cantrell. Click below to see some of his posts. 
 
