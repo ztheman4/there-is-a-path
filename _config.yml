@@ -1,5 +1,6 @@
 theme: minima
 title: There is a Path
-header_pages:
-  - title: Home
-    background: /assets/annie-spratt-PJtKv5c4rZI-unsplash.jpg
+#header_pages:
+  #- title: Home
+    #background: /assets/annie-spratt-PJtKv5c4rZI-unsplash.jpg
+    #Apperently, this isn't needed with the minimal theme of Jekyll?
