@@ -17,6 +17,44 @@ date: 2025-05-20
     border-radius: 8px;
     color: #222; /* Darker text for contrast */
   }
+    /* make the main body text larger */
+  p {
+    font-size: 1rem; /* 1rem is usually 16px; this makes it 25% larger */
+    line-height: 1.6;   /* Adds space between lines for better readability */
+  }
+
+  /* This targets the main title */
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  /* This targets sub-headings */
+  h2 {
+    font-size: 2rem;
+  }
+  
+ /* Header Title (There is a Path) */
+  .site-title {
+    font-size: 2.25rem !important; /* Adjust this number to your liking */
+    letter-spacing: -1px;
+  }
+
+  /* Navigation links in the header (About, etc.) */
+  .site-nav .page-link {
+    font-size: 1.2rem;
+  }
+
+  /* Footer Text Size and Spacing */
+  .site-footer {
+    font-size: 1.2rem; /* Larger footer text */
+    padding: 40px 0;   /* More space around the footer content */
+    border-top: 1px solid #e8e8e8;
+  }
+  
+  /* Target specific heading inside footer if needed */
+  .footer-heading {
+    font-size: 1.5rem !important;
+  }
 </style>
 
 To read more about Notes from Father's Heart, where a lot of this blog's content originated from, go to https://huckleberryhillbooks.com .
