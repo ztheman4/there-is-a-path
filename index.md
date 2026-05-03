@@ -64,12 +64,13 @@ date: 2026-5-3
   .footer-heading {
     font-size: 1.5rem !important;
   }
-  /* Centers all paragraph text in the main content area */
-  .main-content, .wrapper, #main_content {
+
+  /* If you want a specific paragraph centered, give it a special class */
+  .centered-text {
     text-align: center;
   }
 </style>
-This website was created in May of 2025 to preserve and replace the old blog at thereisapath.wordpress.com. Marvin created the Wordpress site to showcase several excerpts from his book, *Notes from Fathers' Heart*, and to, in a broader sense, lead others to Christ. Click below to see some of his posts. 
+<p class="centered-text">This website was created in May of 2025 to preserve and replace the old blog at thereisapath.wordpress.com. Marvin created the Wordpress site to showcase several excerpts from his book, *Notes from Fathers' Heart*, and to, in a broader sense, lead others to Christ. Click below to see some of his posts. 
 
-This page was last updated on May 3, 2026.
+This page was last updated on May 3, 2026.</p>
 
