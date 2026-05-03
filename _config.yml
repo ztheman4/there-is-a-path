@@ -1,6 +1,9 @@
 theme: minima
-title: There is a Path
+#title: There is a Path
+#description: 
 #header_pages:
   #- title: Home
     #background: /assets/annie-spratt-PJtKv5c4rZI-unsplash.jpg
     #Apperently, this isn't needed with the minimal theme of Jekyll?
+
+    #will commenting out this section remove the duplicate titles? Only one way to find out...
