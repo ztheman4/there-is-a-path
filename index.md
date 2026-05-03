@@ -1,5 +1,6 @@
 ---
 Home: There is a Path
+date: 2026-5-3
 ---
 <!--<style>
   body {
@@ -64,5 +65,7 @@ Home: There is a Path
     font-size: 1.5rem !important;
   }
 </style>
-This site was created in May of 2025 to preserve the old blog made over a decade ago by Marvin Cantrell. Click below to see some of his posts. 
+This website was created in May of 2025 to preserve and replace the old blog at thereisapath.wordpress.com. Marvin created the Wordpress site to showcase several excerpts from his book, *Notes from Fathers' Heart*, and to, in a broader sense, lead others to Christ. Click below to see some of his posts. 
+
+This page was last updated on May 3, 2026.
 
