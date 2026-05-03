@@ -1,3 +1,7 @@
+---
+title: "On the Edge of Time"
+date: 2012-06-10
+---
 ![On the Edge of Time](/docs/assets/images/on-the-edge-of-time.jpg)
 
 
