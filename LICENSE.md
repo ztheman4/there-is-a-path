@@ -1,4 +1,4 @@
-MIT License (Modified for Content Protection)
+Modified MIT License
 
 Copyright (c) 2026 Zachary C
 
