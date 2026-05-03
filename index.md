@@ -75,5 +75,5 @@ date: 2026-5-3
 
 <span style="display: block; text-align: center;">This website was created in May of 2025 to preserve and replace the old blog at thereisapath.wordpress.com. Marvin created the Wordpress site to showcase several excerpts from his book, *Notes from Fathers' Heart*, and to, in a broader sense, lead others to Christ. Click below to see some of his posts.</span>
 
-<span style="display: block; text-align: center;">This page was last updated on May 3, 2026.</span>
+<!--<span style="display: block; text-align: center;">This page was last updated on May 3, 2026.</span>-->
 
