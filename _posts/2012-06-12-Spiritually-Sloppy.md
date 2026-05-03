@@ -1,3 +1,7 @@
+---
+title: "Spiritually Sloppy"
+date: 2012-06-12
+---
 ![Spiritually Sloppy](/docs/assets/images/spiritually-sloppy.jpg)
 
 
