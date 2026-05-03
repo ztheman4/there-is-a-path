@@ -1,6 +1,9 @@
 theme: minima
 title: There is a Path
 description: Difficult is the path that leads to a godly life and few find it. Let us help each other along the way. (See Matt. 7:14 & Gal. 6:10)
+plugins:
+  - jekyll-last-modified-at
+
 #header_pages:
   #- title: Home
     #background: /assets/annie-spratt-PJtKv5c4rZI-unsplash.jpg
