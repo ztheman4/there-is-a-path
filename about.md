@@ -4,6 +4,66 @@ date: 2026-5-3
 ---
 ![About](/assets/images/about-picture.jpg)
 
+<style>
+  body {
+    background-image: url("./assets/background-small.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  /* Target the main content area */
+  .main-content, #main_content, .wrapper { 
+    background: rgba(255, 255, 255, 0.85); /* White with 85% opacity */
+    padding: 30px;
+    border-radius: 8px;
+    color: #222; /* Darker text for contrast */
+  }
+  
+  /* make the main body text larger */
+  p {
+    font-size: 1rem; /* 1rem is usually 16px; this makes it 25% larger */
+    line-height: 1.6;   /* Adds space between lines for better readability */
+  }
+
+  /* This targets the main title */
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  /* This targets sub-headings */
+  h2 {
+    font-size: 2rem;
+  }
+  
+ /* Header Title (There is a Path) */
+  .site-title {
+    font-size: 2.25rem !important; /* Adjust this number to your liking */
+    letter-spacing: -1px;
+  }
+
+  /* Navigation links in the header (About, etc.) */
+  .site-nav .page-link {
+    font-size: 1.2rem;
+  }
+
+  /* Footer Text Size and Spacing */
+  .site-footer {
+    font-size: 1.2rem; /* Larger footer text */
+    padding: 40px 0;   /* More space around the footer content */
+    border-top: 1px solid #e8e8e8;
+  }
+  
+  /* Target specific heading inside footer if needed */
+  .footer-heading {
+    font-size: 1.5rem !important;
+  }
+
+  /* If you want a specific paragraph centered, give it a special class */
+  .centered-text {
+    text-align: center;
+  }
+</style>
+
 From the old website:
 
 Hi, my name is Marvin Lynn Cantrell. I am sixty-one years old and I have been greatly blessed to have Jesus as my Lord and Savior for fifty of those years. I have shared my life with my wonderful wife Wanda for thirty-nine years. We have two daughters and four grandsons. I have been writing short devotional essays for the last few years, and There Is a Path is my endeavor to continue to be a blessing to my brothers and sisters in their journey along the path of life.
